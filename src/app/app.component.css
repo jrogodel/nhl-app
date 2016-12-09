@@ -1,0 +1,7 @@
+span {
+    padding: 10px;
+}
+
+.full-width {
+    flex: 1 1 auto;
+}
