@@ -9,8 +9,4 @@ import '../../public/css/styles.css';
 
 export class AppComponent { 
 
-  onSubmit(value: any) {
-    console.log(value);
-  }
-
 }
