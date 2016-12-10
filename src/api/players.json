@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "id": 22,
+      "fname": "Claude",
+      "lname": "Giroux",
+      "age": 28,
+      "position": "Center",
+      "goals": 15,
+      "assists": 34
+    }
+  ]
+}

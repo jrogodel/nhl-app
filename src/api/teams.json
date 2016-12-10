@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "id": 11,
+      "team": "Philadelphia Flyers",
+      "conference": "East",
+      "wins": 22,
+      "losses": 10,
+      "rank": 3
+      }
+    ]
+}
