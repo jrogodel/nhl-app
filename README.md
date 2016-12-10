@@ -11,6 +11,7 @@ x  scaffle project with teams and player features
 x  each feature will have a corresponding list sub-folder.
 x  connect the feature modules with the app modules
 x  configure routing
+x  set up in memory database
 
 ?  refactor
 
